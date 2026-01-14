@@ -6,7 +6,7 @@
 As a former job seeker, I’ve always been surprised by the lack of data exploring the most optimal jobs and skills in the data science market. I set out to understand what skills top employers request and how to land more pay.
 
 ### Analysis File
-My final Data_Analysis is in [1_Project_Data_Analysis.xlsx](1_Salary_Dashboard.xlsx).
+My final Data_Analysis is in [1_Project_Data_Analysis.xlsx](1_Project_Data_Analysis.xlsx).
 
 ### Questions to Analyze
 
