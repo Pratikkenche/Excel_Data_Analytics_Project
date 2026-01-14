@@ -5,6 +5,9 @@
 
 As a former job seeker, I’ve always been surprised by the lack of data exploring the most optimal jobs and skills in the data science market. I set out to understand what skills top employers request and how to land more pay.
 
+### Analysis File
+My final Data_Analysis is in [1_Project_Data_Analysis.xlsx](1_Salary_Dashboard.xlsx).
+
 ### Questions to Analyze
 
 To understand the data science job market, I asked the following:
@@ -26,7 +29,7 @@ The following Excel skills were utilized for analysis:
 
 ### Data Jobs Dataset
 
-The dataset used for this project contains real-world data science job information from 2023. The dataset is available via my Excel course, which provides a foundation for analyzing data using Excel. 
+The dataset used for this project contains real-world data science job information from 2023.
 
 It includes detailed information on:
 
